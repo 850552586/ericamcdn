@@ -222,10 +222,6 @@ table {
     border-collapse: collapse
 }
 
-td,
-th {
-    padding: 0
-}
 
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
@@ -2983,9 +2979,7 @@ caption {
     text-align: left
 }
 
-th {
-    text-align: left
-}
+
 
 .table {
     width: 100%;
